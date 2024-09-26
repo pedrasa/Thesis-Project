@@ -1,0 +1,196 @@
+fileFormatVersion: 2
+guid: 79715830710d0dc4b9fc302df6db23e8
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable:
+  - first:
+      74: 1827226128182048838
+    second: Take 001
+  - first:
+      74: 3274061651930356714
+    second: dd|aa001|Take 001|BaseLayer
+  - first:
+      74: -5242857809158451855
+    second: dd|aa|Take 001|BaseLayer
+  - first:
+      74: 8057733459387935614
+    second: dd|dd001|Take 001|BaseLayer
+  - first:
+      74: -794448876535769594
+    second: dd|dd|Take 001|BaseLayer
+  - first:
+      74: -5120626003482741257
+    second: dd|Obj3d66-706189-15-605|Take 001|BaseLayer
+  - first:
+      74: 681430743808012163
+    second: dd|Obj3d66-706189-15-606|Take 001|BaseLayer
+  - first:
+      74: -1761031482752994030
+    second: dd|Obj3d66-706189-16-370|Take 001|BaseLayer
+  - first:
+      74: -1438368028507290417
+    second: dd|Obj3d66-706189-16-371|Take 001|BaseLayer
+  - first:
+      74: -3414536785218382877
+    second: dd|Obj3d66-706189-7-719|Take 001|BaseLayer
+  - first:
+      74: 6958866865851682567
+    second: dd|Obj3d66-706189-7-720|Take 001|BaseLayer
+  - first:
+      74: -3803830970825237613
+    second: dd|Obj3d66-706189-8-525|Take 001|BaseLayer
+  - first:
+      74: 3931871258096200101
+    second: dd|Obj3d66-706189-8-526|Take 001|BaseLayer
+  - first:
+      74: -3593143769059196055
+    second: aa|aa001|Take 001|BaseLayer
+  - first:
+      74: 4601872888579228538
+    second: aa|aa|Take 001|BaseLayer
+  - first:
+      74: 6850749856074669676
+    second: aa|dd001|Take 001|BaseLayer
+  - first:
+      74: -188639209156014506
+    second: aa|dd|Take 001|BaseLayer
+  - first:
+      74: 4976160076174982475
+    second: aa|Obj3d66-706189-15-605|Take 001|BaseLayer
+  - first:
+      74: -5526534935404174771
+    second: aa|Obj3d66-706189-15-606|Take 001|BaseLayer
+  - first:
+      74: 7511721327786552427
+    second: aa|Obj3d66-706189-16-370|Take 001|BaseLayer
+  - first:
+      74: 6609527171604298722
+    second: aa|Obj3d66-706189-16-371|Take 001|BaseLayer
+  - first:
+      74: 866750737120224418
+    second: aa|Obj3d66-706189-7-719|Take 001|BaseLayer
+  - first:
+      74: 1178827037350234712
+    second: aa|Obj3d66-706189-7-720|Take 001|BaseLayer
+  - first:
+      74: -5443902212415383574
+    second: aa|Obj3d66-706189-8-525|Take 001|BaseLayer
+  - first:
+      74: -7800032782298379731
+    second: aa|Obj3d66-706189-8-526|Take 001|BaseLayer
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: derevo t
+    second: {fileID: 2100000, guid: b145db0b01693fd418c5ea39c34dfa36, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: melal t
+    second: {fileID: 2100000, guid: 57f6a3169f22a034ea3eb0de3f5bf996, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal s
+    second: {fileID: 2100000, guid: 7fb33e713ac411d4692b957244e05616, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

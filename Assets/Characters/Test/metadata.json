@@ -1,0 +1,17 @@
+{
+    "generator": "2.5.14-20221220",
+    "create_at": "2023-07-07T14:27:38",
+    "didimo_package_version": "1",
+    "tier": "trial",
+    "arkit": false,
+    "aws_polly": false,
+    "oculus_lipsync": false,
+    "simple_poses": true,
+    "avatar_structure": "full-body",
+    "hair": "hair_004",
+    "body_pose": "A",
+    "gender": "",
+    "garment": "casual",
+    "profile": "standard",
+    "transfer_formats": ["gltf","fbx"]
+}
